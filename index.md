@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: 口嗨误国，实干兴邦
 ---
 
 
